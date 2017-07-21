@@ -1,2 +1,5 @@
 .cache
+.vscode
 __pycache__
+project
+target
